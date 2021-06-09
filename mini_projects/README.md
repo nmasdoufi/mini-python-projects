@@ -1,6 +1,7 @@
 # mini-python-projects
-#This repo contains three mini-projects for beginners in Python with the aim of 
-#enhancing our knowledge with the fundamentals.  
+
+This repo contains three mini-projects for beginners in Python. The purpose
+behind it is to become more familiar with the fundamentals of python.  
 
 These three mini-projects are:  
 
